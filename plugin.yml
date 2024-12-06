@@ -1,0 +1,6 @@
+name: PDGHMagnata
+main: me.mchiappinam.pdghmagnata.Main
+version: 1.0
+author: mchiappinam
+website: http://pdgh.com.br/
+depends: [Vault, Legendchat]
